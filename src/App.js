@@ -9,7 +9,7 @@ function App() {
     <div>
       {/* <Test1 arg={77}/> */}
       {/* <Test2 arg={77}/> */}
-      <HomeWork />
+      <HomeWork arg={50} />
     </div>
   );
 }
